@@ -12,7 +12,7 @@ Arquitectura, diseño arquitectónico, modelado 3D, criterio estructural, constr
 ---
 
 ## Experiencia Profesional
-### TsintaLab
+### Smnart Build Designs
 Periodo 2017 - Actual
 - Empresa dedicada al ramo de arquitectura y construcción
 
